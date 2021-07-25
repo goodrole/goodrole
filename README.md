@@ -4,7 +4,7 @@
 
 Programming has a hobby | Planning to go into Computer Science
 
-- 🔭 I’m currently working on [Lol][leaguewebsite] [project][https://github.com/goodrole/Lol_skinChooser]
+- 🔭 I’m currently working on [Lol][leaguewebsite] [project][projectwebsite]
 - 🌱 I’m currently learning All listed languages/tools 
 - ⚡ Fun fact: I like sleeping 
 
@@ -28,4 +28,4 @@ Programming has a hobby | Planning to go into Computer Science
 [cpp]: https://visualstudio.microsoft.com/vs/features/cplusplus/
 [css]: https://github.com/topics/css
 [python]: https://www.python.org/
-[project]: https://github.com/goodrole/Lol_skinChooser
+[projectwebsite]: https://github.com/goodrole/Lol_skinChooser

@@ -1,12 +1,12 @@
 ### Hi there 👋, I'm Goodrole
-#### For Fun Programmer
+#### 3head 
 ![For Fun Programmer](https://github.com/goodrole/goodrole/blob/main/pictures/banner.png?raw=true)
 
-Programming has a hobby | Planning to go into Computer Science
+Programming for Fun | nuF rof gnimmargorP
 
 - 🔭 I’m currently working on [Lol][leaguewebsite] [project][projectwebsite]
-- 🌱 I’m currently learning All listed languages/tools 
-- ⚡ Fun fact: I like sleeping 
+- 🌱 I’m currently learning 
+- ⚡ Fun fact: 😀
 
 <br />
 

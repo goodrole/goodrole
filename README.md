@@ -28,4 +28,4 @@ Programming for Fun | nuF rof gnimmargorP
 [cpp]: https://visualstudio.microsoft.com/vs/features/cplusplus/
 [css]: https://github.com/topics/css
 [python]: https://www.python.org/
-[projectwebsite]: https://github.com/goodrole/Lol_skinChooser
+[projectwebsite]: https://github.com/goodrole/Teemo-Bot
